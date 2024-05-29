@@ -1,0 +1,24 @@
+body{
+    background-color: #c96f0f;
+
+}
+
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #ff8400;
+    width: 8rem;
+  }
+
+table, th, td{
+    text-align: center;
+    justify-content: center;
+}
+
+footer{
+    text-align: center;
+    background-color: #ff8400;
+    padding: 20px;
+}
